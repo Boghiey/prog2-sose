@@ -1,1 +1,0 @@
-package uebung.uebung6;
